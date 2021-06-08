@@ -1,0 +1,1 @@
+export { meetupListReducer } from './meetupListReducer'

@@ -1,0 +1,1 @@
+export {TotalBeersCard} from './totalBeersCard'
